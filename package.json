@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react-prototypes.git"
+    "url": "https://github.com/beeeweee/react-prototypes.git"
   },
   "dependencies": {
     "react": "^15.4.2",
