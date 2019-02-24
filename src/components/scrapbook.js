@@ -1,5 +1,5 @@
 import React from 'react';
-import puppy from "./images/17.jpg";
+import puppy from "./images/download.jpeg";
 import './scrapbook.css';
 
 
